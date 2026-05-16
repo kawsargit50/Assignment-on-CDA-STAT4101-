@@ -1,1 +1,47 @@
 
+Question 1	3
+
+🔹 Basic EDA	4
+(i) Age distribution — Normal or Skewed	5
+(ii) Smokers vs non-smokers proportion	6
+#Encode Data	6
+(iii) Highest frequency income group	7
+iv) Percentage exposed to high pollution	7
+v) Overall prevalence of lung disease	8
+
+🔹 Association & Crosstab	8
+i) Association between Smoking and Lung Disease	8
+ii) Interpret contingency table	9
+
+🔹 Does Pollution Level Affect Lung Disease?	10
+i)	Compare lung disease prevalence across Income groups	10
+ii) Factor has the strongest relationship with lung disease	11
+
+🔹 Statistical Testing	12
+i) Chi-square test for Smoking vs lung disease and Pollution vs lung disease	12
+ii) When to use Fisher’s Exact Test	13
+iii) Calculate and interpret Odds Ratio for Smoking and Lung Disease	13
+
+🔹 Correlation & Interpretation	13
+i) Correlation between Smoking, Age, and Lung Disease	13
+ii) Why correlation is not sufficient for causal inference?	14
+
+🔹 Logistic Regression	14
+i) Fit a logistic regression model	14
+ii) Statistically significant variables	15
+iii) Calculate and interpret Odds Ratio for Smoking and Lung Disease	16
+iv) Effect of Smoking Before vs After Adjusting for Pollution	17
+
+🔹 Advanced Modeling	17
+i) Add an interaction term (Smoking × Pollution)	17
+ii) Is the interaction significant?	17
+iii) Interpretation:	18
+iv) Does pollution amplify smoking risk?	18
+
+🔹 Model Evaluation	19
+i) Compute the ROC curve and AUC	19
+ii) Is the model good?	20
+iii) What is the confusion matrix?	20
+iv) Discuss model accuracy vs sensitivity vs specificity	22
+🔹 Research Question Solution:	23
+
